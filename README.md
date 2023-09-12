@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://ibb.co/MRYykD7"  />
+  <img height="200" src="https://i.ibb.co/55NXhWL/Untitled-Diagram-drawio.png"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://ibb.co/dkZhPDq"  />
+  <img height="200" src="https://i.ibb.co/gtYnSJp/Entity-Relationship-Diagram-drawio.png"  />
 </div>
 
 ###
