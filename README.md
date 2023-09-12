@@ -23,17 +23,17 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.ibb.co/qdBn7tq/Add-Person.png"  />
+  <img height="300" src="https://i.ibb.co/qdBn7tq/Add-Person.png"  />
 </div>
 
 ###
 
-<h2 align="left"⚡Retrieving person data from Database using Postman</h2>
+<h2 align="left">⚡Retrieving person data from Database using Postman</h2>
 
 ###
 
 <div align="center">
-  <img height="250" src="https://i.ibb.co/xLq6TwF/get-Person.png"  />
+  <img height="300" src="https://i.ibb.co/xLq6TwF/get-Person.png"  />
 </div>
 
 ###
@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.ibb.co/Jsvr0xX/update-Person.png"  />
+  <img height="300" src="https://i.ibb.co/Jsvr0xX/update-Person.png"  />
 </div>
 
 ###
@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.ibb.co/fNzwyjP/delete-Person.png"  />
+  <img height="300" src="https://i.ibb.co/fNzwyjP/delete-Person.png"  />
 </div>
 
 ###
