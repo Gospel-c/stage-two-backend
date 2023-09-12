@@ -22,6 +22,10 @@
 
 ###
 
+<p align="left">***POST REQUEST [https://stage-two-backend.onrender.com/user/api/]***</p>
+
+###
+
 <div align="center">
   <img height="300" src="https://i.ibb.co/qdBn7tq/Add-Person.png"  />
 </div>
@@ -29,6 +33,11 @@
 ###
 
 <h2 align="left">⚡Retrieving person data from Database using Postman</h2>
+
+###
+
+<p align="left">***GET REQUEST [https://stage-two-backend.onrender.com/user/api/:user_id]*** if the user id is passed as a parameter</p>
+<p align="left">***GET REQUEST [https://stage-two-backend.onrender.com/user/api/:user_id/?name=Mark Essien]*** if a query parameter is provided the it gets the document that matches that parameter.</p>
 
 ###
 
@@ -42,6 +51,11 @@
 
 ###
 
+<p align="left">***PATCH REQUEST [https://stage-two-backend.onrender.com/user/api/:user_id]*** if the user id is passed as a parameter. The new update data will will provided in the request body.</p>
+<p align="left">***GET REQUEST [https://stage-two-backend.onrender.com/user/api/:user_id/?name=Mark Essien]*** The new update data will will provided in the request body</p>
+
+###
+
 <div align="center">
   <img height="300" src="https://i.ibb.co/Jsvr0xX/update-Person.png"  />
 </div>
@@ -49,6 +63,11 @@
 ###
 
 <h2 align="left">🚮Removing person data from Database using Postman</h2>
+
+###
+
+<p align="left">***DELETE REQUEST [https://stage-two-backend.onrender.com/user/api/:user_id]*** if the user id is passed as a parameter, the document that has that id will be removed from the database.</p>
+<p align="left">***DELETE REQUEST [https://stage-two-backend.onrender.com/user/api/:user_id/?name=Mark Essien]*** Removes the documents whose name field matches the query parameter.</p>
 
 ###
 
